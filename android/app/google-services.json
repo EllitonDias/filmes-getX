@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756274891286",
+    "project_id": "app-movies-6c15d",
+    "storage_bucket": "app-movies-6c15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756274891286:android:18ef648b24d96dcd85c337",
+        "android_client_info": {
+          "package_name": "br.com.edcode.app_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756274891286-s9i1fj5ffhdjmuofqfa8d700r4k7kjt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZ-CYG8lrXbwgOPHObU94XuFUOeoEjTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756274891286-s9i1fj5ffhdjmuofqfa8d700r4k7kjt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
